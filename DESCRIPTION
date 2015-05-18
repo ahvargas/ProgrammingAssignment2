@@ -1,0 +1,11 @@
+Package: week3
+Version: 0.1
+Date: 2015-05-18
+Authors@R: "Abraham Vargas <ahvargas@gmail.com> [aut, cre]"
+Description: This second programming assignment will require you to write an R function that is able to cache potentially time-consuming computations.
+Depends: R (>= 3.0.2)
+Imports:
+    XML,
+    RCurl
+License: MIT
+LazyData: true
